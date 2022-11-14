@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ItsLuized - Luis Martínez
 - 👀 I’m interested in Data Engineering, Data Science and Software Engineering
-- 🌱 I’m currently learning Terraform and going deeper into DE
+- 🌱 I’m currently learning web3 Data Privacy and going deeper in DE
 - 📫 How to reach me luisemartinezcruz@gmail.com
