@@ -29,7 +29,6 @@ Changing Data Privacy for good 🟡
 ## ❯ GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Luized&show_icons=true&count_private=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luized&theme=dark&langs_count=3" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsLuized&show_icons=true&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLuized&theme=dark&langs_count=5&hide=html,css,jupyter%20notebook&layout=compact" />
 </div>
