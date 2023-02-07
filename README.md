@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ItsLuized - Luis Martínez
+- 🧑🏻‍💻 I'm a software engineer from Venezuela, living in Colombia.
 - 👀 I’m interested in Data Engineering, Software Engineering and Data Science
-- 🌱 I’m currently learning stuff related to my current work and going deeper in Data Engineering
+- 🌱 I’m currently learning stuff related to my current work and going deeper into Data Engineering
 - 📫 How to reach me luisemartinezcruz@gmail.com
 
 Changing Data Privacy for good 🟡
@@ -32,3 +33,18 @@ Changing Data Privacy for good 🟡
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsLuized&show_icons=true&count_private=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLuized&theme=dark&langs_count=5&hide=html,css,jupyter%20notebook&layout=compact" />
 </div>
+
+## ❯ Socials
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/ItsLuized
+[2]: https://www.linkedin.com/in/luismacr/
