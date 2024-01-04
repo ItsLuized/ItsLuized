@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ItsLuized - Luis Martínez
-- 🧑🏻‍💻 I'm a software engineer from Venezuela, living in Colombia.
+- 🧑🏻‍💻 I'm a Software Engineer/Data Engineer from Venezuela, living in Colombia.
 - 👀 I’m interested in Data Engineering, Software Engineering and Data Science
-- 🌱 I’m currently learning stuff related to my current work and going deeper into Data Engineering
+- 🌱 I’m currently open to any learning topic...
 - 📫 How to reach me luisemartinezcruz@gmail.com
-
-Changing Data Privacy for good 🟡
+- 💻 Currently working @ Mercado Libre
 
 ## ❯ Technologies & Tools
 
@@ -37,7 +36,7 @@ Changing Data Privacy for good 🟡
 ## ❯ Socials
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [LinkedIn](https://www.linkedin.com/in/luismacr/)
 
 <!-- Icons -->
 
