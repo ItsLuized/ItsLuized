@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ItsLuized - Luis Martínez
 - 🧑🏻‍💻 I'm a Software Engineer/Data Engineer from Venezuela, living in Colombia.
 - 👀 I’m interested in scalability and data pipelines.
-- 🌱 I’m currently learning about Data Optimization (Cost Reduction and Performance Improvement)  which is the main goal at my current team! 🤝
+- 🌱 I’m currently trying to read more books! 🤝
 - 📫 How to reach me luisemartinezcruz@gmail.com
-- 💻 Currently working @ Mercado Libre
+- 💻 Currently working @ EPAM Systems
 
 ## ❯ Technologies & Tools
 
